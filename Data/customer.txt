@@ -1,0 +1,16 @@
+CustomerID,Name,Password,Email,PhoneNumber,IC,RegisterStatus
+C001,tan,1,tanqiming2005@gmail.com,0114567234,051109060413,Accepted
+C002,Lim Wei Jun,lim456,limweijun99@gmail.com,0123456789,990512075432,Accepted
+C003,Jack,apu890,kostoko@gmail.com,0869754213,123423453456,Accepted
+C004,Heart,nasa123,weather79@gmail.com,1209348756,224466880011,Accepted
+C005,Alicia Tan,ali111,alicia.tan@gmail.com,0178899001,010203040506,Rejected
+C006,Marcus Lee,marc222,marcus.lee@gmail.com,0192233445,990102070809,Accepted
+C007,Siti Nur,siti333,siti.nur@gmail.com,0135566778,950812034567,Accepted
+C008,Daniel Wong,dani444,daniel.wong@gmail.com,0147788990,970112056789,Accepted
+C009,Emily Chen,emily555,emily.chen@gmail.com,0116677889,980523012345,Accepted
+C010,Jason Lim,jason666,jason.lim@gmail.com,0164455667,000101098765,Rejected
+C011,Nurul Aisyah,aisy777,aisyah.nurul@gmail.com,0123344556,981223019283,Pending
+C012,Kevin Ong,kevin888,kevin.ong@gmail.com,0198765432,990514032145,Pending
+C013,Sarah Tan,sarah999,sarah.tan@gmail.com,0159988776,010412065432,Pending
+C014,Alex Goh,alex101,alex.goh@gmail.com,0137776665,991231056432,Pending
+C015,Rachel Lim,rachel202,rachel.lim@gmail.com,0172233114,970101043211,Rejected

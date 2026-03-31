@@ -1,0 +1,6 @@
+ManagerID,Name,Password
+M001,Ran,3
+M002,Ng Siew Ling,nsl456
+M003,David Ong,dav111
+M004,Chan Mei Li,cml222
+M005,Lim Kok Soon,lks333

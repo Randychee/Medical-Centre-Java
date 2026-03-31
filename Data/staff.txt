@@ -1,0 +1,6 @@
+StaffID,Name,Password
+S001,Yuki,2
+S002,Amy Wong Mei Yee,amy555
+S003,John Lim Wei Seng,jhn888
+S004,Farah Binti Hassan,farah123
+S005,Michael Tan,mike999

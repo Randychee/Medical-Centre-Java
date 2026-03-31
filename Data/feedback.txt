@@ -1,0 +1,6 @@
+FeedbackID,AppointmentID,FromUserID,ToUserID,CommentText,Date
+F001,A001,C001,D005,The doctor was very patient and helpful.,2025-09-28
+F002,A002,C002,D004,Doctor explained everything clearly.,2025-09-20
+F003,A004,C004,D002,The consultation was fast and professional.,2025-09-05
+F004,A005,C005,D001,Staff assisted me well during payment.,2025-09-06
+F005,A012,C016,D003,Good,2025-09-29F006,A012,C016,D003,good,2025-09-29
